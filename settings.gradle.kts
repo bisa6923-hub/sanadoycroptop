@@ -9,4 +9,3 @@ dependencyResolutionManagement {
     repositories { google(); mavenCentral() }
 }
 rootProject.name = "SanadoyCroptop"
-include(":app")
