@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Sanadoy" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1E6BFF</item>
+        <item name="colorSecondary">#FFC107</item>
+    </style>
+</resources>
